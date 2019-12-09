@@ -1,0 +1,102 @@
+
+
+
+body{
+	background-color: #b994b5;
+}
+div{
+	max-width:800px;
+	margin:0 auto 0 auto;
+}
+h2{
+	font-size: 30px;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 700;
+	max-width: 750px;
+}
+
+.heading{
+	font-family: 'Charm', cursive;
+	font-size: 40px;
+	margin:0 auto 0 auto;
+	max-width:800px;
+	align-content: center;
+	background-color: #ddc9db;
+
+}
+.header{
+	font-size: 20px;
+	padding: 10px;
+}
+blockquote{
+	border: 2px solid #efecec;
+	padding: 20px 10px 20px 10px;
+}
+.two{
+	font-family:'Khula', sans-serif;
+	font-size: 40px;
+}
+
+.myText{
+	max-width:650px;
+	margin:0 auto;
+	column-count: 1;
+	column-gap: 40px;
+	column-rule: 1px solid #efecec;
+	padding-right: 0px;
+}
+
+.myText1{
+	max-width:500px;
+	margin:0 auto 0 auto;
+	column-count: 2;
+	column-gap: 40px;
+	column-rule: 1px solid #efecec;
+}
+.img-block{
+	max-width: 800px;
+	margin:0 auto 0 auto;
+}
+.image1{
+	width:200px;
+	
+}
+.image2{
+	width:250px;
+	
+}
+.image{
+	width: 800px;
+	display: block;
+	align-content: right;
+}
+
+.last{
+	font-size: 12px;
+	font-weight:300;
+	margin: 100px 0px 50px 0;
+}
+
+
+.text-block{
+	max-width:800px;
+	margin:0 auto 0 auto;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
